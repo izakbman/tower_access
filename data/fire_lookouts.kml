@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Oregon Fire Towers / Lookouts</name>
+    <description>data credited to Rex Kamstra</description>
+    <Style id="icon-1621-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>Black Butte</name>
+        <description><![CDATA[6436'<br>[http://www.firelookout.com/or/blackbuttedes.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.63547,44.39972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bus Point</name>
+        <description><![CDATA[3333'<br>[http://www.firelookout.com/or/buspoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.47505,45.2114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clear Lake Butte</name>
+        <description><![CDATA[4458'<br>[http://www.firelookout.com/or/clearlake.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.71856,45.15647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Devils Peak</name>
+        <description><![CDATA[5045'<br>[http://www.firelookout.com/or/devilspeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.87568,45.26415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle Butte</name>
+        <description><![CDATA[3175'<br>[http://www.firelookout.com/or/eaglebutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.23481,44.83982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fivemile Butte</name>
+        <description><![CDATA[4627'<br>[http://www.firelookout.com/or/fivemile.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.46869,45.41005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flag Point</name>
+        <description><![CDATA[5651'<br>[http://www.firelookout.com/or/flagpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.46657,45.31788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gold Butte</name>
+        <description><![CDATA[4618'<br>[http://www.firelookout.com/or/goldbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.08364,44.80521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Ridge</name>
+        <description><![CDATA[5400'<br>[http://www.firelookout.com/or/greenridge.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.60882,44.53392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hawk Mtn.</name>
+        <description><![CDATA[5277'<br>[http://www.firelookout.com/or/hawkmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.9449,44.85688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hickman Butte</name>
+        <description><![CDATA[4385'<br>[http://www.firelookout.com/or/hickmanbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.91152,45.41298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joes Point</name>
+        <description><![CDATA[3653'<br>[http://www.firelookout.com/or/joespoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.41436,45.4284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pechuck Mtn.</name>
+        <description><![CDATA[4339'<br>[http://www.firelookout.com/or/pechuck.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.29691,44.93419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perry Point</name>
+        <description><![CDATA[4920'<br>[http://www.firelookout.com/or/perrypoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.49232,45.40312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rocky Butte</name>
+        <description><![CDATA[4796'<br>[http://www.firelookout.com/or/rockybutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.50339,45.25209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sisi Butte</name>
+        <description><![CDATA[5617'<br>[http://www.firelookout.com/or/sisi.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.84469,44.89929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shitike Butte</name>
+        <description><![CDATA[5080'<br>[http://www.firelookout.com/or/shitikebutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.61079,44.74501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sidwalter Butte</name>
+        <description><![CDATA[3610'<br>[http://www.firelookout.com/or/sidwalterbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.53932,44.92621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Johns</name>
+        <description><![CDATA[143'<br>[http://www.firelookout.com/or/stjohns.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.75605,45.58897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bald Mtn.</name>
+        <description><![CDATA[7396'<br>[http://www.firelookout.com/or/baldmtn88.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.35531,43.27429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bald (Ingram) Butte</name>
+        <description><![CDATA[7536'<br>[http://www.firelookout.com/or/baldingram.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.78977,42.61439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bear Butte</name>
+        <description><![CDATA[5527'<br>[http://www.firelookout.com/or/bearbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.41515,43.09982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bryant Mtn.</name>
+        <description><![CDATA[6461'<br>[http://www.firelookout.com/or/bryant.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.27603,42.0338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calimus Butte</name>
+        <description><![CDATA[6622'<br>[http://www.firelookout.com/or/calimusbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.55943,42.63156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chase Mtn.</name>
+        <description><![CDATA[6349'<br>[http://www.firelookout.com/or/chasemtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.99416,42.09462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dog Mtn.</name>
+        <description><![CDATA[6936'<br>[http://www.firelookout.com/or/dogmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.71824,42.11856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drake Peak</name>
+        <description><![CDATA[8222'<br>[http://www.firelookout.com/or/drakepeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.15793,42.30051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Butte</name>
+        <description><![CDATA[6400'<br>[http://www.firelookout.com/or/eastbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.99576,43.66715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fox Butte</name>
+        <description><![CDATA[6025'<br>[http://www.firelookout.com/or/foxbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.84279,43.61062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Mtn.</name>
+        <description><![CDATA[5190'<br>[http://www.firelookout.com/or/greenmtnor.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.7249,43.38672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hager Mtn.</name>
+        <description><![CDATA[7185'<br>[http://www.firelookout.com/or/hagermtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.03165,43.00931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hogback Mtn.</name>
+        <description><![CDATA[6200'<br>[http://www.firelookout.com/or/hogback.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.7059,42.24288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horsefly Mtn.</name>
+        <description><![CDATA[6466'<br>[http://www.firelookout.com/or/horsefly.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.04889,42.26416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lava Butte</name>
+        <description><![CDATA[5016'<br>[http://www.firelookout.com/or/lavabutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.35609,43.91791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lookout Rock</name>
+        <description><![CDATA[6508'<br>[http://www.firelookout.com/or/lookoutrock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.80149,42.46282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morgan Butte</name>
+        <description><![CDATA[7234'<br>[http://www.firelookout.com/or/morganbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.54435,42.53999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odell Butte</name>
+        <description><![CDATA[7033'<br>[http://www.firelookout.com/or/odell.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.86397,43.47064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parker Mtn.</name>
+        <description><![CDATA[5210'<br>[http://www.firelookout.com/or/parkermtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.27883,42.10531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pelican Butte</name>
+        <description><![CDATA[8035'<br>[http://www.firelookout.com/or/pelicanbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.14526,42.51338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Scott</name>
+        <description><![CDATA[8926'<br>[http://www.firelookout.com/or/mtscott.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.01625,42.92291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spodue Mtn.</name>
+        <description><![CDATA[6421'<br>[http://www.firelookout.com/or/spodue.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.26905,42.59306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spring Butte</name>
+        <description><![CDATA[5462'<br>[http://www.firelookout.com/or/springbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.3481,43.52332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sugarpine Mtn.</name>
+        <description><![CDATA[6393'<br>[http://www.firelookout.com/or/sugarpinemtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.60711,43.11696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walker Mtn.</name>
+        <description><![CDATA[7078'<br>[http://www.firelookout.com/or/walker.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.71696,43.30521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Watchman</name>
+        <description><![CDATA[8056'<br>[http://www.firelookout.com/or/watchman.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.17237,42.94294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yainax Butte</name>
+        <description><![CDATA[7226'<br>[http://www.firelookout.com/or/yainaxbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.26976,42.32651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pumice Spring</name>
+        <description><![CDATA[5040'<br>[http://www.firelookout.com/or/pumicespring.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.88467,43.70355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZX Ranch</name>
+        <description><![CDATA[5000'<br>[http://www.firelookout.com/or/zxranch.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.06731,42.78317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Rock</name>
+        <description><![CDATA[4509'<br>[http://www.firelookout.com/or/bigrock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.45103,44.26803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carpenter Mtn.</name>
+        <description><![CDATA[5369'<br>[http://www.firelookout.com/or/carpentermtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.14385,44.28119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coffin Mtn.</name>
+        <description><![CDATA[5771'<br>[http://www.firelookout.com/or/coffinmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.04433,44.62139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Peter</name>
+        <description><![CDATA[3977'<br>[http://www.firelookout.com/or/greenpeter.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.58291,44.48307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henkle Butte</name>
+        <description><![CDATA[3412'<br>[http://www.firelookout.com/or/henklebutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.48585,44.33567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huckleberry Mtn.</name>
+        <description><![CDATA[5549'<br>[http://www.firelookout.com/or/huckleberry.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.31814,43.84666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indian Ridge</name>
+        <description><![CDATA[5405'<br>[http://www.firelookout.com/or/indianridge78.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.25484,44.00564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Cowhorn</name>
+        <description><![CDATA[4255'<br>[http://www.firelookout.com/or/littlecowhorn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.50354,44.03861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Round Mtn.</name>
+        <description><![CDATA[5900'<br>[http://www.firelookout.com/or/roundmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.71021,43.75748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saddleblanket Mtn.</name>
+        <description><![CDATA[4969'<br>[http://www.firelookout.com/or/saddleblanket.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.51049,43.89374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sand Mtn.</name>
+        <description><![CDATA[5459'<br>[http://www.firelookout.com/or/sandmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.928,44.38477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trout Creek Butte</name>
+        <description><![CDATA[5546'<br>[http://www.firelookout.com/or/troutcreekbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.66957,44.24114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waldo Mtn.</name>
+        <description><![CDATA[6357'<br>[http://www.firelookout.com/or/waldo.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.09898,43.76522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warner Ridge</name>
+        <description><![CDATA[6357'<br>[http://www.firelookout.com/or/warner.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3664,43.5434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abbott Butte</name>
+        <description><![CDATA[6131'<br>[http://www.firelookout.com/or/abbottbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.54946,42.94312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acker Rock</name>
+        <description><![CDATA[4112'<br>[http://www.firelookout.com/or/ackerrock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.64641,43.05216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bald Knob</name>
+        <description><![CDATA[3630'<br>[http://www.firelookout.com/or/baldknob61.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.03978,42.69356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baughman Mtn.</name>
+        <description><![CDATA[2866'<br>[http://www.firelookout.com/or/baughmanmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.58121,43.26926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bland Mtn.</name>
+        <description><![CDATA[2696'<br>[http://www.firelookout.com/or/blandmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.11917,42.9691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bunker Hill</name>
+        <description><![CDATA[240'<br>[http://www.firelookout.com/or/bunkerhill.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.20489,43.35173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cinnamon Butte</name>
+        <description><![CDATA[6417'<br>[http://www.firelookout.com/or/cinnamonbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.10986,43.24102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cougar Pass</name>
+        <description><![CDATA[1750'<br>[http://www.firelookout.com/or/cougarpass.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.87102,43.59705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dutchman Butte</name>
+        <description><![CDATA[3907'<br>[http://www.firelookout.com/or/dutchmanbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.66026,42.86657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dutchmans Peak</name>
+        <description><![CDATA[7418'<br>[http://www.firelookout.com/or/dutchmanspeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.89085,42.04357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eden Ridge</name>
+        <description><![CDATA[3485'<br>[http://www.firelookout.com/or/edenridge.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9551,42.8701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edson Butte</name>
+        <description><![CDATA[2786'<br>[http://www.firelookout.com/or/edsonbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.33409,42.87244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garwood Butte</name>
+        <description><![CDATA[7017'<br>[http://www.firelookout.com/or/garwood.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.28193,43.14508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halls Point</name>
+        <description><![CDATA[5006'<br>[http://www.firelookout.com/or/hallspoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.54906,42.80388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hershberger Mtn.</name>
+        <description><![CDATA[6200'<br>[http://www.firelookout.com/or/hershberger.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.45491,43.03353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Illahee Rock</name>
+        <description><![CDATA[5392'<br>[http://www.firelookout.com/or/illaheerock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.56276,43.34909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lake O' Woods]]></name>
+        <description><![CDATA[3419'<br>[http://www.firelookout.com/or/lakeowoods.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1295,42.59314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Grayback</name>
+        <description><![CDATA[5149'<br>[http://www.firelookout.com/or/littlegrayback.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.49391,42.19825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Onion Mtn.</name>
+        <description><![CDATA[4438'<br>[http://www.firelookout.com/or/onionmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.61613,42.45442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pearsoll Peak</name>
+        <description><![CDATA[5098'<br>[http://www.firelookout.com/or/pearsollpeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8457,42.29884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pickett Butte</name>
+        <description><![CDATA[3292'<br>[http://www.firelookout.com/or/pickettbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.85585,42.94352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pig Iron</name>
+        <description><![CDATA[4881'<br>[http://www.firelookout.com/or/pigiron.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.37989,43.2642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quail Prairie</name>
+        <description><![CDATA[3033'<br>[http://www.firelookout.com/or/quailprairie.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.04589,42.24191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Butte</name>
+        <description><![CDATA[5275'<br>[http://www.firelookout.com/or/redbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.88083,43.16572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robinson Butte</name>
+        <description><![CDATA[5864'<br>[http://www.firelookout.com/or/robinsonbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3817,42.36451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Round Top</name>
+        <description><![CDATA[4658'<br>[http://www.firelookout.com/or/roundtop.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9909,42.70186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rustler Peak</name>
+        <description><![CDATA[4658'<br>[http://www.firelookout.com/or/rustlerpeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.34812,42.61927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sexton Mtn.</name>
+        <description><![CDATA[3834'<br>[http://www.firelookout.com/or/sexton.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.36548,42.60014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snow Camp</name>
+        <description><![CDATA[4223'<br>[http://www.firelookout.com/or/snowcamp.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.16547,42.34389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soda Mtn.</name>
+        <description><![CDATA[6091'<br>[http://www.firelookout.com/or/sodamtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.47904,42.06478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Squaw Peak</name>
+        <description><![CDATA[4964'<br>[http://www.firelookout.com/or/squawpeakr.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0121,42.0697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Table Mtn.</name>
+        <description><![CDATA[6113'<br>[http://www.firelookout.com/or/tablemtn65b.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.49288,42.19776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watson Butte</name>
+        <description><![CDATA[5687'<br>[http://www.firelookout.com/or/watson.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.27434,43.29208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Point</name>
+        <description><![CDATA[5075'<br>[http://www.firelookout.com/or/whitepoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5527,42.77075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wildhorse</name>
+        <description><![CDATA[3778'<br>[http://www.firelookout.com/or/wildhorse.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.16032,42.471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yellowjacket</name>
+        <description><![CDATA[6284'<br>[http://www.firelookout.com/or/yellowjacket.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.94966,42.02714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Stella</name>
+        <description><![CDATA[4715'<br>[http://www.firelookout.com/or/mtstella.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.43469,42.93754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aldrich Mtn.</name>
+        <description><![CDATA[6988'<br>[http://www.firelookout.com/or/aldrichmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.45136,44.37751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ant Hill</name>
+        <description><![CDATA[4602'<br>[http://www.firelookout.com/or/anthill.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.56774,44.87256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antelope Mtn.</name>
+        <description><![CDATA[6456'<br>[http://www.firelookout.com/or/antelope.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.41924,44.04246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bald Butte</name>
+        <description><![CDATA[5920'<br>[http://www.firelookout.com/or/baldbutte96.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.36789,43.68311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Butte</name>
+        <description><![CDATA[6235'<br>[http://www.firelookout.com/or/blackbuttem.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.13866,44.54003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Mtn.</name>
+        <description><![CDATA[5306'<br>[http://www.firelookout.com/or/blackmtnoch.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.09871,44.379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bone Point</name>
+        <description><![CDATA[4527'<br>[http://www.firelookout.com/or/bonept.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.03024,44.98546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calamity Butte</name>
+        <description><![CDATA[6695'<br>[http://www.firelookout.com/or/calamitybutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.82537,43.92866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Desolation Butte</name>
+        <description><![CDATA[7028'<br>[http://www.firelookout.com/or/desolationbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.66448,44.8505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dixie Butte</name>
+        <description><![CDATA[7592'<br>[http://www.firelookout.com/or/dixiebutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.62649,44.58294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dry Mtn.</name>
+        <description><![CDATA[6281'<br>[http://www.firelookout.com/or/drymtn96.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.56371,43.67196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dry Soda</name>
+        <description><![CDATA[5593'<br>[http://www.firelookout.com/or/drysoda.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.91087,44.20831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fall Mtn.</name>
+        <description><![CDATA[5946'<br>[http://www.firelookout.com/or/fallmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.04274,44.29368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flagtail Mtn.</name>
+        <description><![CDATA[6584'<br>[http://www.firelookout.com/or/flagtail.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.28115,44.18625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foley Butte</name>
+        <description><![CDATA[5484'<br>[http://www.firelookout.com/or/foleybutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.78501,44.52703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frazier Point</name>
+        <description><![CDATA[6290'<br>[http://www.firelookout.com/or/frazierpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.648,44.09404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gerow Butte</name>
+        <description><![CDATA[5688'<br>[http://www.firelookout.com/or/gerowbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.46,44.26323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indian Rock</name>
+        <description><![CDATA[7353'<br>[http://www.firelookout.com/or/indianrock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.69165,44.7568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Ireland</name>
+        <description><![CDATA[8346'<br>[http://www.firelookout.com/or/ireland.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.32061,44.83688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>King Mtn.</name>
+        <description><![CDATA[6678'<br>[http://www.firelookout.com/or/kingmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.86906,43.81051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madison Butte</name>
+        <description><![CDATA[5711'<br>[http://www.firelookout.com/or/madisonbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.47482,45.10738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Pisgah</name>
+        <description><![CDATA[6816'<br>[http://www.firelookout.com/or/pisgah.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.23616,44.45707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rancheria Rock</name>
+        <description><![CDATA[4909'<br>[http://www.firelookout.com/or/rancheriarock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.13763,44.89829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riddle Mtn.</name>
+        <description><![CDATA[6352'<br>[http://www.firelookout.com/or/riddlemtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.49913,43.1002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ritter Butte</name>
+        <description><![CDATA[4200'<br>[http://www.firelookout.com/or/ritterbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.07136,44.83359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snow Mtn.</name>
+        <description><![CDATA[7163'<br>[http://www.firelookout.com/or/snowmtn97.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.49632,43.97038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stephenson Mtn.</name>
+        <description><![CDATA[5956'<br>[http://www.firelookout.com/or/stephenson.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.50164,44.58987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sugarloaf Mtn.</name>
+        <description><![CDATA[6128'<br>[http://www.firelookout.com/or/sugarloaf97.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.23928,43.91573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tamarack Mtn.</name>
+        <description><![CDATA[4979'<br>[http://www.firelookout.com/or/tamarack.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.66146,44.87379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tower Point</name>
+        <description><![CDATA[6086'<br>[http://www.firelookout.com/or/towerpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.29569,44.05735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wagontire Mtn.</name>
+        <description><![CDATA[6510'<br>[http://www.firelookout.com/or/wagontire.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.89151,43.34877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Myrtle Butte</name>
+        <description><![CDATA[6384'<br>[http://www.firelookout.com/or/westmyrtle.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.16028,43.97464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wolf Mtn.</name>
+        <description><![CDATA[6483'<br>[http://www.firelookout.com/or/wolfmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.71545,44.3282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Craft Point</name>
+        <description><![CDATA[6025'<br>[http://www.firelookout.com/or/craftpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.73756,43.77301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crane Point</name>
+        <description><![CDATA[6414'<br>[http://www.firelookout.com/or/cranepoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.50326,44.14419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Headquarters (Sod House)</name>
+        <description><![CDATA[4200'<br>[http://www.firelookout.com/or/headquarters.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.84292,43.26376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mackey (Norcross) Butte</name>
+        <description><![CDATA[5512'<br>[http://www.firelookout.com/or/mackeynorcross.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.81743,43.78953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>P Ranch</name>
+        <description><![CDATA[4190'<br>[http://www.firelookout.com/or/pranch.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.88655,42.82848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prairie City</name>
+        <description><![CDATA[3664'<br>[http://www.firelookout.com/or/prairiecity.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.70333,44.44444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rajneesh Ranch</name>
+        <description><![CDATA[4040'<br>[http://www.firelookout.com/or/rajneeshranch.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -120.62426,44.8331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rattlesnake</name>
+        <description><![CDATA[4140'<br>[http://www.firelookout.com/or/rattlesnake.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.88897,43.14139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>South Baldy</name>
+        <description><![CDATA[5892'<br>[http://www.firelookout.com/or/southbaldy.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -119.97138,44.65666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stubblefield Butte</name>
+        <description><![CDATA[4180'<br>[http://www.firelookout.com/or/stubblefieldbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.91706,43.17083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Lookout Mtn.</name>
+        <description><![CDATA[7120'<br>[http://www.firelookout.com/or/biglookout.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.27815,44.60888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buckhorn Mtn.</name>
+        <description><![CDATA[5331'<br>[http://www.firelookout.com/or/buckhorn104.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.8228,45.75375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Courtney Butte</name>
+        <description><![CDATA[4813'<br>[http://www.firelookout.com/or/courtneybutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.37372,45.88024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elk Mtn.</name>
+        <description><![CDATA[5122'<br>[http://www.firelookout.com/or/elkmtn104.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.20542,45.59815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glass Hill</name>
+        <description><![CDATA[5391'<br>[http://www.firelookout.com/or/glasshill.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.075,45.20488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goodman Ridge</name>
+        <description><![CDATA[5218'<br>[http://www.firelookout.com/or/goodmanridge.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.20925,45.58912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halfway (Pine Ranger Station)</name>
+        <description><![CDATA[2600'<br>[http://www.firelookout.com/or/halfway.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.08829,44.86,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harl Butte</name>
+        <description><![CDATA[6071'<br>[http://www.firelookout.com/or/harlbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.87712,45.32863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Harris</name>
+        <description><![CDATA[6071'<br>[http://www.firelookout.com/or/harris.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.89312,45.44042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hat Point</name>
+        <description><![CDATA[6982'<br>[http://www.firelookout.com/or/hatpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.66173,45.43783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>High Ridge</name>
+        <description><![CDATA[5303'<br>[http://www.firelookout.com/or/highridge.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.10191,45.68256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoodoo Ridge</name>
+        <description><![CDATA[4219'<br>[http://www.firelookout.com/or/hoodoo.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.61091,45.94772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Howard Butte</name>
+        <description><![CDATA[4314'<br>[http://www.firelookout.com/or/howardbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.7371,45.72377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Johnson Rock</name>
+        <description><![CDATA[5714'<br>[http://www.firelookout.com/or/johnsonrock.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.4031,45.12515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirkland Butte</name>
+        <description><![CDATA[5244'<br>[http://www.firelookout.com/or/kirklandbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.13295,45.8376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lookout Mtn.</name>
+        <description><![CDATA[5229'<br>[http://www.firelookout.com/or/lookoutmtnu.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.78939,45.85046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McGraw</name>
+        <description><![CDATA[6020'<br>[http://www.firelookout.com/or/mcgraw.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.77812,45.17636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mule Peak</name>
+        <description><![CDATA[8679'<br>[http://www.firelookout.com/or/mulepeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.50294,45.13044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pt. Prominence</name>
+        <description><![CDATA[6745'<br>[http://www.firelookout.com/or/ptprominence.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.70209,45.37176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Hill</name>
+        <description><![CDATA[5020'<br>[http://www.firelookout.com/or/redhill.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.10259,45.78848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Russel Mtn.</name>
+        <description><![CDATA[7508'<br>[http://www.firelookout.com/or/russel.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.08696,45.06842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Summit Point</name>
+        <description><![CDATA[7006'<br>[http://www.firelookout.com/or/summitpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.23926,44.98287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Table Rock</name>
+        <description><![CDATA[7815'<br>[http://www.firelookout.com/or/tablerock105.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.31656,44.33403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tope Creek</name>
+        <description><![CDATA[4720'<br>[http://www.firelookout.com/or/topecreek.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -117.40341,45.65276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tower Mtn.</name>
+        <description><![CDATA[6850'<br>[http://www.firelookout.com/or/toweror.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.5689,45.0543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Unity Ranger Station</name>
+        <description><![CDATA[4000'<br>[http://www.firelookout.com/or/unityrs.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.18814,44.43675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fairview Peak</name>
+        <description><![CDATA[5933'<br>[http://www.firelookout.com/or/fairviewpeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.65324,43.58578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grizzly Mtn.</name>
+        <description><![CDATA[2339'<br>[http://www.firelookout.com/or/grizzlymtn63.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -124.36531,42.39725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butler Butte</name>
+        <description><![CDATA[5513'<br>[http://www.firelookout.com/or/butlerbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.67972,42.88801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meadow Camp</name>
+        <description><![CDATA[3863'<br>[http://www.firelookout.com/or/meadowcamp.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.69707,42.70239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foley Peak</name>
+        <description><![CDATA[2275'<br>[http://www.firelookout.com/or/foleypeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.82326,45.65161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Point</name>
+        <description><![CDATA[1303'<br>[http://www.firelookout.com/or/greenpoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.88795,45.04163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Price Peak</name>
+        <description><![CDATA[1920'<br>[http://www.firelookout.com/or/pricepeak.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -123.36243,44.65623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eightmile Point</name>
+        <description><![CDATA[5280'<br>[http://www.firelookout.com/or/eightmilepoint.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.48003,45.36598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Badger Butte</name>
+        <description><![CDATA[5981'<br>[http://www.firelookout.com/or/badgerbutte.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.55224,45.29428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tire Mtn.</name>
+        <description><![CDATA[4330'<br>[http://www.firelookout.com/or/tiremtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5261,43.8354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alder Springs</name>
+        <description><![CDATA[4496'<br>[http://www.firelookout.com/or/aldersprings.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.55381,44.62991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Callahan Mtn.</name>
+        <description><![CDATA[2914'<br>[http://www.firelookout.com/or/callahanmtn.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.96456,42.90341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huckleberry (Shasta)</name>
+        <description><![CDATA[6281'<br>[http://www.firelookout.com/or/huckleberryshasta.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -122.31415,42.85178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Butte</name>
+        <description><![CDATA[5798'<br>[http://www.firelookout.com/or/greenbutte88.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -121.29358,43.55536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Ridge</name>
+        <description><![CDATA[4875'<br>[http://www.firelookout.com/or/longridge.html]]]></description>
+        <styleUrl>#icon-1621-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -116.90509,45.67197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
